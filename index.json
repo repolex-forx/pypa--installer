@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "installer",
+  "versions": [
+    {
+      "commit": "ba622422bc1c458d8cb82f08085a807cf2146d7a",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:14:58.897838+00:00"
+    }
+  ]
+}
